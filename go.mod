@@ -1,3 +1,3 @@
-module github.com/hughluo/go-mod-demo
+module github.com/hughluo/semvar
 
 go 1.12
