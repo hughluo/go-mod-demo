@@ -1,3 +1,3 @@
-module github.com/hughluo/semver/v2
+module github.com/hughluo/semver
 
 go 1.12
